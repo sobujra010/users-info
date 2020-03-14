@@ -1,0 +1,26 @@
+.employee{
+    display: flex;
+    margin: 20px;
+    background-color: palegoldenrod;
+    box-shadow: 5px 5px 10px grey;
+    padding: 10px;
+    border-radius: 7px;
+
+}
+.employee img{
+    height: 200px;
+    border-radius: 50%;
+    margin: 15px;
+    border: 1px solid cornflowerblue;
+}
+.info{
+    text-align: justify;
+}
+.main-button{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid slategray;
+    cursor: pointer;
+}

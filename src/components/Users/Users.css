@@ -1,0 +1,10 @@
+.users-container{
+    display: flex;
+}
+.employee-container{
+    width: 50%;
+    margin: 20px;
+    margin-left: 200px ;
+    border-right: 1px solid silver;
+    
+}
